@@ -1,16 +1,16 @@
-[Popcorn Time for Android](https://github.com/popcorn-official/popcorn-android)  [![Build Status](https://ci.popcorntime.sh/job/Popcorn-Time-Android/badge/icon)](https://ci.popcorntime.sh/job/Popcorn-Time-Android/)
+[DevPT for Android](https://github.com/popcorn-official/popcorn-android)  [![Build Status](https://ci.popcorntime.sh/job/Popcorn-Time-Android/badge/icon)](https://ci.popcorntime.sh/job/Popcorn-Time-Android/)
 ----
 
 Allow any Android user to watch movies easily streaming from torrents, without any particular knowledge.
 
-Visit the project's website at <http://popcorntime.sh>.
+Visit the project's website at <http://None.com>.
 
 * [Continuous Integration](http://ci.popcorntime.sh/job/Popcorn-Time-Android/)
 * [Issue Tracker](https://github.com/popcorn-official/popcorn-android/issues)
 
 ## Community
 
-Keep track of Popcorn Time development and community activity.
+Keep track of DevPT development and community activity.
 
 * Follow Popcorn Time on [Twitter](https://twitter.com/popcorntimetv), [Facebook](https://www.facebook.com/PopcornTimeTv) and [Google+](https://plus.google.com/+PopcorntimeIo).
 * Read and subscribe to the [The Official Popcorn Time Blog](http://blog.popcorntime.sh).
